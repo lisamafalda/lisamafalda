@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm a LisaMafalda 👋
+
+**lisamafalda/lisamafalda** is a ✨ _special_ ✨
+
+- 🔭 I’m currently working at home. 
+- 🌱 I’m currently learning english and coding.
+- 💬 Ask me about any thing. 
+- 😄 Pronouns: she/her 
+-->
 
 <!--
 **lisamafalda/lisamafalda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
